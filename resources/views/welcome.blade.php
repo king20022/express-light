@@ -603,7 +603,7 @@
 
                                                                 <div class="form-group text-center">
                                                                     <button class="theme-btn submit-btn">
-                                                                        submit
+                                                                        Submit
                                                                     </button>
                                                                 </div>
 

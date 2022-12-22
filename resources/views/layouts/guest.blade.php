@@ -72,7 +72,7 @@
                         <ul class="top-list">
                             <li><span class="icon flaticon-location"></span>Florida, USA</li>
                             <li><span class="icon flaticon-email"></span><a
-                                    href="mailto:Hectorgaius@gmail.com">Hecthorgaius@gmail.com</a></li>
+                                    href="mailto:info@expresslightdl.com">info@expresslightdl.com</a></li>
                         </ul>
                     </div>
 
@@ -104,7 +104,7 @@
 
                     <!-- Logo -->
                     <div class="pull-left logo-box">
-                        <div class="logo"><a href="{{ route('welcome') }}"><img style="width: 50%" src="/assets/images/toplogo.png"
+                        <div class="logo"><a href="{{ route('welcome') }}"><img class="logo-width img-fluid" style="width: 50%" src="/assets/images/toplogo.png"
                                     alt="" title=""></a></div>
                     </div>
 
