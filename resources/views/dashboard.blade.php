@@ -41,6 +41,10 @@
 										<small class="mb-2 d-block">Email Address</small>
 										<span class="text-black font-w600">{{ $detail->email }}</span>
 									</div>
+									<div class="col-xl-2 col-xxl-3 col-lg-6 col-sm-4 mb-sm-4 mb-3">
+										<small class="mb-2 d-block">Tracking ID</small>
+										<span class="text-black font-w600">{{ $detail->tracking_id }}</span>
+									</div>
 									<div class="col-xl-3 col-xxl-4 col-lg-6 col-sm-6 mb-sm-4 mb-4 d-flex ">
 										<div class="dropdown media-dropdown mt-auto mb-auto mr-auto">
 											<div class="btn-link">

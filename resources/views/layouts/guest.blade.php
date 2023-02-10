@@ -72,7 +72,7 @@
                         <ul class="top-list">
                             <li><span class="icon flaticon-location"></span>Florida, USA</li>
                             <li><span class="icon flaticon-email"></span><a
-                                    href="mailto:info@expresslightdl.com">info@expresslightdl.com</a></li>
+                                    href="mailto:expresslightdevilry@gmail.com">expresslightdevilry@gmail.com</a></li>
                         </ul>
                     </div>
 

@@ -61,7 +61,7 @@
 									</div>
 									<div class="ft-contact-cta-text headline pera-content">
 										<h3>Mail address</h3>
-										<p>info@expresslightdl.com</p>
+										<p>expresslightdevilry@gmail.com</p>
 									</div>
 								</div>
 							</div>
