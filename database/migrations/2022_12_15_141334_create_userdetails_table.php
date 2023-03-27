@@ -21,7 +21,7 @@ return new class extends Migration
             $table->string('freight_type');
             $table->string('departure_city');
             $table->string('delivery_city');
-            $table->integer('boxes');
+            $table->string('boxes');
             $table->timestamps();
         });
     }

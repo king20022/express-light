@@ -27,7 +27,7 @@
                             data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']"
                             data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
                             style="">
-                            <h1><span> Light Express Delivery </span> <br> fast & Secure <br> <span>Transportation of Your <span
+                            <h1><span> Maxline Express Delivery </span> <br> fast & Secure <br> <span>Transportation of Your <span
                                         class="theme_color">Cargo</span></span></h1>
                         </div>
 
@@ -39,7 +39,7 @@
                             data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']"
                             data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
                             style="">
-                            <div class="text">Welcome to Light Express Delivery, where your top interest is our priority.</div>
+                            <div class="text">Welcome to Maxline Express Delivery, where your top interest is our priority.</div>
                         </div>
 
                         <div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
@@ -88,7 +88,7 @@
                             data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']"
                             data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
                             style="">
-                            <div class="text">Welcome to Light Express Delivery, where your top interest is our priority.</div>
+                            <div class="text">Welcome to Maxline Express Delivery, where your top interest is our priority.</div>
                         </div>
 
                         <div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
@@ -188,7 +188,7 @@
                     <div class="content-column col-lg-6 col-md-12 col-sm-12">
                         <div class="inner-column">
                             <div class="sec-title">
-                                <div class="title">Welcome To Light Express Delivery</div>
+                                <div class="title">Welcome To Maxline Express Delivery</div>
                                 <h2>Providing Full Range of Transportation Worldwide</h2>
                                 <div class="text">We offer a full range of customer service throughout the globe, fast and reliable</div>
                             </div>
@@ -512,7 +512,7 @@
                                                                 <!-- Form Group -->
                                                                 <div class="form-group col-lg-4 col-md-4 col-sm-12">
                                                                     <input type="text" name="boxes"
-                                                                        value="" placeholder="Number of Boxes"
+                                                                        value="" placeholder="Content of Boxes"
                                                                         required>
                                                                 </div>
 
@@ -563,7 +563,7 @@
                                             <div class="inner-column"
                                                 style="background-image:url(assets/images/background/1.jpg)">
                                                 <h4>Take Your Career <br> To Next Level</h4>
-                                                <div class="text">At Light Express Delivery, we care for every user and package delivered to your doorstep </div>
+                                                <div class="text">At Maxline Express Delivery, we care for every user and package delivered to your doorstep </div>
 
                                             </div>
                                         </div>
@@ -627,7 +627,7 @@
                                             <div class="inner-column"
                                                 style="background-image:url(assets/images/background/1.jpg)">
                                                 <h4>Take Your Career <br> To Next Level</h4>
-                                                <div class="text">At Light Express Delivery, we care for every user and package delivered to your doorstep</div>
+                                                <div class="text">At Maxline Express Delivery, we care for every user and package delivered to your doorstep</div>
 
                                             </div>
                                         </div>

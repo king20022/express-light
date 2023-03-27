@@ -5,7 +5,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Light Express Delivery - Transportation & Logistics</title>
+    <title>Maxline Express Delivery - Transportation & Logistics</title>
     <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon">
     <!-- Mobile Specific Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -33,7 +33,7 @@
 </head>
 
 <body class="nlhu-body">
-    <div id="preloader"></div>
+    {{-- <div id="preloader"></div> --}}
     <div class="up">
         <a href="#" class="scrollup text-center"><i class="fas fa-chevron-up"></i></a>
     </div>
@@ -44,7 +44,7 @@
     <div class="nlhu-body-overlay"></div>
 
     <!-- Preloader-->
-    <div class="loading-preloader">
+    {{-- <div class="loading-preloader">
         <div id="loading-preloader">
             <div class="line_shape"></div>
             <div class="line_shape"></div>
@@ -57,7 +57,7 @@
             <div class="line_shape"></div>
             <div class="line_shape"></div>
         </div>
-    </div>
+    </div> --}}
     <!-- Preloader End -->
 
     <!-- Main Header -->
@@ -104,7 +104,7 @@
 
                     <!-- Logo -->
                     <div class="pull-left logo-box">
-                        <div class="logo"><a href="{{ route('welcome') }}"><img class="logo-width img-fluid" style="width: 50%" src="/assets/images/toplogo.png"
+                        <div class="logo"><a href="{{ route('welcome') }}"><img style="width: 210px; height: 75px" class="img-fluid" src="/assets/images/maxline.png"
                                     alt="" title=""></a></div>
                     </div>
 
@@ -153,7 +153,7 @@
             <div class="auto-container clearfix">
                 <!--Logo-->
                 <div class="logo pull-left">
-                    <a href="{{ route('welcome') }}" title=""><img style="width: 50%" src="/assets/images/toplogo.png"
+                    <a href="{{ route('welcome') }}" title=""><img style="width: 210px; height: 75px"  src="/assets/images/maxline.png"
                             alt="" title=""></a>
                 </div>
                 <!--Right Col-->
@@ -184,7 +184,7 @@
             <div class="close-btn"><span class="icon fas fa-times"></span></div>
 
             <nav class="menu-box">
-                <div class="nav-logo"><a href="{{ route('welcome') }}"><img src="/assets/images/logonew.png"
+                <div class="nav-logo"><a href="{{ route('welcome') }}"><img src="/assets/images/maxline.png"
                             alt="" title=""></a></div>
                 <div class="menu-outer">
                     <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
@@ -212,7 +212,7 @@
                             <div class="footer-column col-lg-6 col-md-6 col-sm-12">
                                 <div class="footer-widget logo-widget">
                                     <div class="logo">
-                                        <a href="{{ route('welcome') }}"><img src="/assets/images/newfooter.png"
+                                        <a href="{{ route('welcome') }}"><img src="/assets/images/maxline.png"
                                                 alt="" /></a>
                                     </div>
                                     <div class="text">In cases where the user has any Logistics issues, he/she in all
@@ -273,7 +273,7 @@
             <div class="footer-bottom">
                 <div class="clearfix">
                     <div class="pull-left">
-                        <div class="copyright">&copy; 2022 Light Express Delivery- Logistics Services. All rights
+                        <div class="copyright">&copy; 2022 Maxline Express Delivery- Logistics Services. All rights
                             reserved.</div>
                     </div>
                 </div>
