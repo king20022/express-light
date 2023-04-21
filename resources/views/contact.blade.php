@@ -42,7 +42,7 @@
 									</div>
 									<div class="ft-contact-cta-text headline pera-content">
 										<h3>Office address</h3>
-										<p>Florida, USA</p>
+										<p>108 N Homestead Blvd, Homestead, Florida United States</p>
 									</div>
 								</div>
 								<div class="ft-contact-cta-items d-flex">
@@ -52,7 +52,6 @@
 									<div class="ft-contact-cta-text headline pera-content">
 										<h3>Telephone number</h3>
 										<p>(408) 389-5470</p>
-										<p>(408) 456-5470</p>
 									</div>
 								</div>
 								<div class="ft-contact-cta-items d-flex">
@@ -70,7 +69,7 @@
 					<div class="col-lg-6">
 						<div class="ft-contact-page-form-wrapper headline">
 							<h3 class="text-center">Get a Quote</h3>
-							<form action="">
+							<form action="" method="POST">
 								<div class="row">
 									<div class="col-lg-6">
 										<input type="text" name="name" placeholder="Your Name">
@@ -103,7 +102,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> <br> <br> <br>
 <!-- End of contact page section
 	============================================= -->
 
