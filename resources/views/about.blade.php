@@ -34,7 +34,7 @@
 									a Reliable Services
 									<span>Since 2001</span>
 								</h2>
-								<p>when Anderson joshua in 2001 founded Maxline Express Delivery,he didn't know he would revolutionize the world of logistics.Today Anderson is the world leading logistics  company.our 380,000 people in oer 22o countries and territories work every day to help you cross borders,reach new markets and grow your business.Or simply send a letter to your loved ones. </p>
+								<p>when Anderson joshua in 2001 founded Light Express Delivery,he didn't know he would revolutionize the world of logistics.Today Anderson is the world leading logistics  company.our 380,000 people in oer 22o countries and territories work every day to help you cross borders,reach new markets and grow your business.Or simply send a letter to your loved ones. </p>
 							</div>
 							<div class="ft-about-feature-wrapper-2">
 								<div class="row">
@@ -45,7 +45,7 @@
 											</div>
 											<div class="ft-about-feature-text headline pera-content">
 												<h3>Our Mission</h3>
-												<p>Maxline Express Delivery is specailised for deliverying global events,Around the world
+												<p>Light Express Delivery is specailised for deliverying global events,Around the world
 												</p>
 											</div>
 										</div>

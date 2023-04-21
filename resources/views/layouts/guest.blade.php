@@ -5,7 +5,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Maxline Express Delivery - Transportation & Logistics</title>
+    <title>Light Express Delivery - Transportation & Logistics</title>
     <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon">
     <!-- Mobile Specific Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -104,7 +104,7 @@
 
                     <!-- Logo -->
                     <div class="pull-left logo-box">
-                        <div class="logo"><a href="{{ route('welcome') }}"><img style="width: 210px; height: 75px" class="img-fluid" src="/assets/images/maxline.png"
+                        <div class="logo"><a href="{{ route('welcome') }}"><img style="width: 210px; height: 75px" class="img-fluid" src="/assets/images/toplogo.png"
                                     alt="" title=""></a></div>
                     </div>
 
@@ -153,7 +153,7 @@
             <div class="auto-container clearfix">
                 <!--Logo-->
                 <div class="logo pull-left">
-                    <a href="{{ route('welcome') }}" title=""><img style="width: 210px; height: 75px"  src="/assets/images/maxline.png"
+                    <a href="{{ route('welcome') }}" title=""><img style="width: 210px; height: 75px"  src="/assets/images/toplogo.png"
                             alt="" title=""></a>
                 </div>
                 <!--Right Col-->
@@ -184,7 +184,7 @@
             <div class="close-btn"><span class="icon fas fa-times"></span></div>
 
             <nav class="menu-box">
-                <div class="nav-logo"><a href="{{ route('welcome') }}"><img src="/assets/images/maxline.png"
+                <div class="nav-logo"><a href="{{ route('welcome') }}"><img src="/assets/images/toplogo.png"
                             alt="" title=""></a></div>
                 <div class="menu-outer">
                     <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
@@ -212,17 +212,15 @@
                             <div class="footer-column col-lg-6 col-md-6 col-sm-12">
                                 <div class="footer-widget logo-widget">
                                     <div class="logo">
-                                        <a href="{{ route('welcome') }}"><img src="/assets/images/maxline.png"
+                                        <a href="{{ route('welcome') }}"><img src="/assets/images/newfooter.png"
                                                 alt="" /></a>
                                     </div>
                                     <div class="text">In cases where the user has any Logistics issues, he/she in all
                                         cases must seek independent legal advice provider.</div>
                                     <!-- Social Box -->
                                     <ul class="social-box">
-                                        <li><a href="#" class="fab fa-facebook-f"></a></li>
-                                        <li><a href="#" class="fab fa-twitter"></a></li>
-                                        <li><a href="#" class="fab fa-dribbble"></a></li>
-                                        <li><a href="#" class="fab fa-behance"></a></li>
+                                        <li><a href="https://www.facebook.com/profile.php?id=100083295828580&mibextid=LQQJ4d" target="_blank" class="fab fa-facebook-f"></a></li>
+                                        <li><a href="https://t.me/expresslightdl" target="_blank" class="fab fa-telegram"></a></li>
                                     </ul>
                                     <!-- End Social Box -->
                                 </div>
@@ -273,7 +271,7 @@
             <div class="footer-bottom">
                 <div class="clearfix">
                     <div class="pull-left">
-                        <div class="copyright">&copy; 2022 Maxline Express Delivery- Logistics Services. All rights
+                        <div class="copyright">&copy; 2022 Light Express Delivery- Logistics Services. All rights
                             reserved.</div>
                     </div>
                 </div>
