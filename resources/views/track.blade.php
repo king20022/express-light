@@ -7,7 +7,7 @@
 		<span class="design-shape position-absolute"><img src="/assets/img/shape/tmd-sh.png" alt=""></span>
 		<div class="container">
 			<div class="ft-breadcrumb-content headline text-center position-relative">
-				<h2>Ocean Feright</h2>
+				<h2>Ocean Freight</h2>
 				<div class="ft-breadcrumb-list ul-li">
 					<ul>
 						<li><a href="{{ route('welcome') }}">Home</a></li>
