@@ -42,7 +42,7 @@
 									</div>
 									<div class="ft-contact-cta-text headline pera-content">
 										<h3>Office address</h3>
-										<p>108 N Homestead Blvd, Homestead, Florida United States</p>
+										<p>21515 Hawthorne Blvd Suite 200, Torrance, CA 90503, United States</p>
 									</div>
 								</div>
 								<div class="ft-contact-cta-items d-flex">
@@ -51,7 +51,7 @@
 									</div>
 									<div class="ft-contact-cta-text headline pera-content">
 										<h3>Telephone number</h3>
-										<p>(408) 389-5470</p>
+										<p>(341) 465-4614</p>
 									</div>
 								</div>
 								<div class="ft-contact-cta-items d-flex">

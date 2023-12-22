@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from html.themexriver.com/fastrans/index-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 14 Dec 2022 11:52:30 GMT -->
 
 <head>
     <meta charset="UTF-8">
@@ -70,7 +69,7 @@
                     <!-- Top Left -->
                     <div class="ft1-top-left pull-left">
                         <ul class="top-list">
-                            <li><span class="icon flaticon-location"></span>Florida, USA</li>
+                            <li><span class="icon flaticon-location"></span>California, USA</li>
                             <li><span class="icon flaticon-email"></span><a
                                     href="mailto:>info@expresslightgl.com">info@expresslightgl.com</a></li>
                         </ul>
